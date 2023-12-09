@@ -5,7 +5,7 @@
     "editor.formatOnSaveMode": "file",
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
-        "source.organizeImports": true
+        "source.organizeImports": "explicit"
     },
     "python.analysis.typeCheckingMode": "off",
     "python.formatting.provider": "none",
